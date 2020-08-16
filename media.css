@@ -1,0 +1,78 @@
+
+@media only screen and (max-width: 1000px) {
+    #toTop{
+    bottom: 5px;
+    right: 5%;
+    width: 90%;
+    }
+  
+    .zamet{
+    
+    
+      padding-left: 2%;
+    
+    }
+  
+    .zamet img{
+      width: 90%;
+    }
+    .zagolovok1 {
+      
+      width: 95%;
+      
+     
+    
+    }
+    
+    
+    
+    
+    
+    .zagolovok {
+      
+      
+      width: 95%;
+      
+    
+    }
+  
+  
+      .work{
+          font-size: 120%;}
+      p{
+          width:100%;
+      }
+      .tadl{
+          max-width: 90%;
+      }
+      .bala{
+          max-width: 80%;
+          height: auto;
+      }
+  
+      a.blubtn{
+          width: 80%;
+      }
+      .content{
+          border: 0;
+      }
+      svg{
+          display: none;
+      }
+      .koda{
+      width: 80%;
+          
+      display: block;
+      font-size: 200%; 
+      position: relative;
+      left: 7%; 
+      border: 1px solid red;
+      text-align: center;
+      }
+      .slider {
+          left: 2%;
+        display: inline-block;
+        height: auto;
+        max-width: 90%;
+      }
+  }
